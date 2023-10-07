@@ -1,0 +1,11 @@
+Deadline: October 7, 2023 11:59pm
+
+Questions:
+1) Contains Duplicate (Easy)
+https://leetcode.com/problems/contains-duplicate/
+
+2) Container with Most Water (Medium)
+https://leetcode.com/problems/container-with-most-water/
+
+3) Sliding Window Maximum (Hard)
+https://leetcode.com/problems/sliding-window-maximum/
