@@ -4,3 +4,4 @@
 * 71 - Simplify Path (Medium) - https://leetcode.com/problems/simplify-path/description/
 * 950 - Reveal Cards in Increasing Order (Medium) - https://leetcode.com/problems/reveal-cards-in-increasing-order/submissions/
 ## Homework Questions:
+* 1791 - Find Center of Star Graph (Easy) - https://leetcode.com/problems/find-center-of-star-graph/description/
